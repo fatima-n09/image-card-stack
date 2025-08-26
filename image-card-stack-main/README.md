@@ -12,7 +12,7 @@ An interactive image stack component built with React and Motion. Features smoot
 
 ##  Architecture
 
-Set out to create something that feels interactive and tactile—like handling real cards. What began as a simple drag interaction evolved into a more authentic experience with 3D rotations that respond to movement, making each interaction dynamic and natural. The design is fully modular: the core CardStack component manages the logic, while ImageCardStack shows how it can be customized. Smooth spring animations add that satisfying snap-back effect, and the flexibility means you can stack images, content cards, or any elements you need.
+Set out to create something that feels a bit tactile like handling real cards. What began as a simple drag interaction evolved into a more authentic experience with 3D rotations that respond to movement, making each interaction dynamic and natural. The design is fully modular: the core CardStack component manages the logic, while ImageCardStack shows how it can be customized. Smooth spring animations add that satisfying snap-back effect, and the flexibility means you can stack images, content cards, or any elements you need.
 ##  The Process
 
 - **`CardStack<T>`** - Generic draggable stack component accepting any `StackableItem`
